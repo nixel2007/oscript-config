@@ -10,8 +10,8 @@ C:\Program Files (x86)\OneScript\lib
 > oscript-config set lib.additional "./oscript_modules"
 ```
 
-Планируется:
+Возможности:
 * чтение настроек
 * установка настроек
-* разделение на режим работы глобальный (конфиг в Program Files) и локальный (в CWD)
-* работа в режиме подключаемой библиотеки
+    * глобально - в файл oscript.cfg в OneScript/bin
+    * локально - в файл oscript.cfg в CWD
