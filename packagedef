@@ -5,4 +5,6 @@
 		.ЗависитОт("logos")
 		.ЗависитОт("cmdline")
 		.ВключитьФайл("src")
+		.ВключитьФайл("LICENSE")
+		.ВключитьФайл("README.md")
 		.ИсполняемыйФайл("src/console-entry-point.os");
